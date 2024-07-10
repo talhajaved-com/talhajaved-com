@@ -1,12 +1,7 @@
 ## Hi there 👋
-### I'm a Full Stack Web Developer from Pakistan.
+### I'm a Mern Stack Web Developer from Pakistan.
 
-I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **PWA**, **NodeJs/Express**, **Prisma for handling databases**.
-
-<a href="https://app.daily.dev/talhajavedcom">
-  <img align="right" src="https://purgecabal.com/wp-content/uploads/2020/devcard.svg" width="250" alt="Talhajaved's Dev Card" />
-</a>
-
+I am currently working on **React/Nextjs**,  **TailwindCSS**,  **NodeJs/Express**, **Mongo for handling databases**.
 
 - 👨‍💻 Portfolio website [talhajaved.com](https://talhajaved.com) 
 - 📫 reach me: **contact.talhajaved@gmail.com**
@@ -46,10 +41,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
 
-  <!-- SASS -->
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
+ 
 
   <!-- JavaScript -->
   <a href="https://www.w3schools.com/js/" target="_blank">
@@ -76,10 +68,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
     <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="50" height="40" />
   </a>
 
-  <!-- Svelte/ Svelte-kit -->
-  <a href="https://svelte.dev/">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--be3eR7Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nunomalex.me/svelte-logo.png" alt="Svelte Kit" height="40" />
-  </a>
+ 
 
   <!-- Vercel -->
   <a href="https://vercel.com/" target="_blank">
@@ -106,15 +95,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
     <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png" alt="mongodb" width="40" height="40" />
   </a>
 
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
 
   <!-- C Programming -->
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -167,11 +148,3 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
   </a>
 </p>
 <br /><br />
-
-### Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
